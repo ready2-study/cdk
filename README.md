@@ -1,12 +1,5 @@
-# Welcome to your CDK Go project!
+<p align="center">
+  <img width="200" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9hY2M3M2RiNTFjNmE3NzIxYTIzNDAzNTQ0OWQ4MzgwOT9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.xgNJFrB8Tz89BFgDaybQOp1e54UfUv7VeqayL_Piddg" alt="Go Logo">
+</p>
 
-This is a blank project for CDK development with Go.
-
-The `cdk.json` file tells the CDK toolkit how to execute your app.
-
-## Useful commands
-
- * `cdk deploy`      deploy this stack to your default AWS account/region
- * `cdk diff`        compare deployed stack with current state
- * `cdk synth`       emits the synthesized CloudFormation template
- * `go test`         run unit tests
+## Ready2.Study cloud implementation with AWS CDK
